@@ -13,6 +13,8 @@
 		2705CEE02B62A10F00C876C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2705CEDE2B62A10F00C876C7 /* LaunchScreen.storyboard */; };
 		2705CEE82B62A31200C876C7 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2705CEE72B62A31200C876C7 /* CardSelectionVC.swift */; };
 		2705CEEA2B62A40D00C876C7 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2705CEE92B62A40D00C876C7 /* CWButton.swift */; };
+		275683A12B63D77800FC3227 /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275683A02B63D77800FC3227 /* RulesVC.swift */; };
+		275683A52B640D6100FC3227 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275683A42B640D6100FC3227 /* CardDeck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2705CEE12B62A10F00C876C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2705CEE72B62A31200C876C7 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		2705CEE92B62A40D00C876C7 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
+		275683A02B63D77800FC3227 /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
+		275683A42B640D6100FC3227 /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2705CED52B62A10D00C876C7 /* SceneDelegate.swift */,
 				2705CEE72B62A31200C876C7 /* CardSelectionVC.swift */,
 				2705CEE92B62A40D00C876C7 /* CWButton.swift */,
+				275683A02B63D77800FC3227 /* RulesVC.swift */,
+				275683A42B640D6100FC3227 /* CardDeck.swift */,
 				2705CEDC2B62A10F00C876C7 /* Assets.xcassets */,
 				2705CEDE2B62A10F00C876C7 /* LaunchScreen.storyboard */,
 				2705CEE12B62A10F00C876C7 /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2705CED42B62A10D00C876C7 /* AppDelegate.swift in Sources */,
+				275683A52B640D6100FC3227 /* CardDeck.swift in Sources */,
+				275683A12B63D77800FC3227 /* RulesVC.swift in Sources */,
 				2705CED62B62A10D00C876C7 /* SceneDelegate.swift in Sources */,
 				2705CEE82B62A31200C876C7 /* CardSelectionVC.swift in Sources */,
 				2705CEEA2B62A40D00C876C7 /* CWButton.swift in Sources */,
